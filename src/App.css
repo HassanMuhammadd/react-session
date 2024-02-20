@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #282c34;
+  color: white;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.counter {
+  font-size: 30px;
+}
+
+.advice {
+  padding: 30px;
+  background-color: #282c34;
+  color: white;
+  border: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}

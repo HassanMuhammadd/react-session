@@ -1,0 +1,13 @@
+{children} as props => Component composition
+
+prop drilling
+
+Handling related states => useReducer
+
+state management => useContext and Redux
+
+More hooks => useMemo, use Callback, useRef
+
+custom Hooks
+
+Lazy Loading
